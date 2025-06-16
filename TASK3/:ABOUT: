@@ -1,0 +1,27 @@
+# 🔢 Simple Calculator
+
+A fully responsive and interactive Simple Calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations and includes a dark mode toggle for enhanced user experience.
+
+[Calculator Light Mode]
+*Light mode interface*
+
+[Calculator Dark Mode]
+*Dark mode interface*
+
+---
+
+## ✨ Features ##
+
+- Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
+- Real-time input and result display
+- Clear (`C`) button to reset input
+- Responsive grid layout using CSS
+- Toggle between Light and Dark Mode 🌙
+
+---
+
+## 🛠 Technologies Used ##
+
+- **HTML5** – Structure of the calculator
+- **CSS3** – Styling and responsive layout using CSS Grid and Flexbox
+- **JavaScript (Vanilla JS)** – Event handling and calculation logic
